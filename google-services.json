@@ -1,0 +1,156 @@
+{
+  "project_info": {
+    "project_number": "69625964474",
+    "firebase_url": "https://clubsim-d63ed.firebaseio.com",
+    "project_id": "clubsim-d63ed",
+    "storage_bucket": "clubsim-d63ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:69625964474:android:6bd8a0f6a4a660e7",
+        "android_client_info": {
+          "package_name": "com.awesome.kevlai.mixpanelpoc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "69625964474-9ufoul3alg5mqjna0l2r3kg7838ic76n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBfkr21O78yvs2UPCwaJM3D2Kbk-hwj68"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:69625964474:android:c1ef8e82531fc0db",
+        "android_client_info": {
+          "package_name": "com.example.kevlai.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "69625964474-to56m9g2pdr1jbc1ptmio4ou9hrs1h3e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kevlai.myapplication",
+            "certificate_hash": "85d691312d373ee3df81cb4a642cba8603beea37"
+          }
+        },
+        {
+          "client_id": "69625964474-9ufoul3alg5mqjna0l2r3kg7838ic76n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBfkr21O78yvs2UPCwaJM3D2Kbk-hwj68"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "69625964474-5co31p288mo5248pmto6iil7m8h57mos.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.pccw.clubsim",
+                "app_store_id": "1286595675"
+              }
+            },
+            {
+              "client_id": "69625964474-9ufoul3alg5mqjna0l2r3kg7838ic76n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:69625964474:android:8a65284bb73b8a4a",
+        "android_client_info": {
+          "package_name": "com.mixpanel.example.hello"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "69625964474-9ufoul3alg5mqjna0l2r3kg7838ic76n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBfkr21O78yvs2UPCwaJM3D2Kbk-hwj68"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:69625964474:android:55055d1d75a76e0c",
+        "android_client_info": {
+          "package_name": "com.pccw.clubsim"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "69625964474-9ufoul3alg5mqjna0l2r3kg7838ic76n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBfkr21O78yvs2UPCwaJM3D2Kbk-hwj68"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
