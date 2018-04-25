@@ -1,4 +1,4 @@
-# Notes
+# Notes for MixPanel
 
 ## Changes
 This app is basically a slight modification to your [example app](https://github.com/mixpanel/sample-android-mixpanel-integration), and here's the changes I've made:
@@ -25,8 +25,15 @@ And here is a video showing the general steps I took to send messages on MixPane
 
 [YouTube](https://www.youtube.com/watch?v=1kD5E-MloQI)
 
+## A New Message replacing the Old Message Issue
+And here is another video showing the old message is replaced whenever a new message is coming in:
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/RKEQ2cpnhUo/0.jpg)](https://www.youtube.com/watch?v=RKEQ2cpnhUo)
 
-Kev
+[YouTube](https://youtu.be/RKEQ2cpnhUo )
+
+Also notice there's no information about when a user receives that notification, unlike other notifications on the same panel. 
+
+[Kev](kevlai22@uw.edu)
 
 -------
 Original Stuff on MixPanel repo
