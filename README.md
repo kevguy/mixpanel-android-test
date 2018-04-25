@@ -1,3 +1,36 @@
+# Notes
+
+## Changes
+This app is basically a slight modification to your [example app](https://github.com/mixpanel/sample-android-mixpanel-integration), and here's the changes I've made:
+- Import the project to Android Studio and let it make the necessary changes
+- build.gradle is modified:
+  - gradle version is bumped up to 3.1.2
+  - inside `buildcript`, `jcenter()` is added to `repositories` to make the build work
+  - `instrumentTest` is deprecated, I replaced it with `androidTest`
+- Added `google-services.json` to the project
+- The rest of the project are basically the same, except `MainActivity.java`:
+  - the values for sender ID (for Firebase) and MixPanel API token are replaced with the right ones
+  - Instead of executing your `getTrackingDistinctId` method to get a `trackingDistinctId`, I naively set it to `321` instead.
+
+## Firebase
+For your references, here are some screenshots I took from Firebase:
+
+![drawing](./images/firebase1.png)
+
+![drawing](./images/firebase2.png)
+
+## Flow for Sending Messages
+And here is a video showing the general steps I took to send messages on MixPanel, which was working fine:
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/1kD5E-MloQI/0.jpg)](https://www.youtube.com/watch?v=1kD5E-MloQI)
+
+[YouTube](https://www.youtube.com/watch?v=1kD5E-MloQI)
+
+
+Kev
+
+-------
+Original Stuff on MixPanel repo
+
 # Sample Android Application for Mixpanel Integration
 
 This repository contains a sample application demonstrating how you
